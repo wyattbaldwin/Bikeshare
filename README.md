@@ -6,7 +6,21 @@ The bike-sharing industry has seen a rapid growth in recent years, with more and
 
 The data used in this project was collected from August 2019, and includes information such as trip duration, starting and ending locations, and user demographics. We used Pandas to clean and format the data, and Tableau to create various visualizations that showcase different aspects of the bike trips.
 
+<img src="https://github.com/wyattbaldwin/NYC_Citibike/blob/main/Results/Img1.PNG?raw=true">
+
+<img src="https://github.com/wyattbaldwin/NYC_Citibike/blob/main/Results/Img2.PNG?raw=true">
+
+<img src="https://github.com/wyattbaldwin/NYC_Citibike/blob/main/Results/Img3.PNG?raw=true">
+
+<img src="https://github.com/wyattbaldwin/NYC_Citibike/blob/main/Results/Img4.PNG?raw=true">
+
+<img src="https://github.com/wyattbaldwin/NYC_Citibike/blob/main/Results/Img5.PNG?raw=true">
+
 One of the key findings from our analysis is that the majority of riders are male. Additionally, we found that most trips occur during the morning and late afternoon, and that the majority of riders use subscriptions. These insights can help the bike-sharing program better understand the needs and preferences of their customers, and make improvements to the program accordingly.
+
+<img src="https://github.com/wyattbaldwin/NYC_Citibike/blob/main/Results/Img6.PNG?raw=true">
+
+<img src="https://github.com/wyattbaldwin/NYC_Citibike/blob/main/Results/Img7.PNG?raw=true">
 
 Another interesting finding is that the weekday per hour usage is similar for males and females, but males stand out due to their higher number of riders. It is also observed that the majority of the trips are short with an average duration of about 5-6 minutes.
 
